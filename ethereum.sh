@@ -16,4 +16,4 @@ if [ $? -eq 0 ]; then
     echo "Ethereum data fetched and saved to $OUTPUT_DIR/ethereum.txt."
 else
     echo "Failed to fetch Ethereum data."
-fi
+fi 
